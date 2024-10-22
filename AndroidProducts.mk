@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_x1s.mk
+    $(LOCAL_DIR)/derp_x1s.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_x1s-user \
-    aosp_x1s-userdebug \
-    aosp_x1s-eng
+    derp_x1s-user \
+    derp_x1s-userdebug \
+    derp_x1s-eng
