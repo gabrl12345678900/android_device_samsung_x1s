@@ -13,7 +13,6 @@ ro.surface_flinger.use_content_detection_for_refresh_rate=true
 # RIL
 ro.radio.noril=no
 ro.telephony.default_network=33,33
-ro.vendor.sec.radio.def_network=9
 
 # WiFi
 wifi.direct.interface=p2p-dev-wlan0
